@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Adamina&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Anna's Homepage</title>
+</head>
+<body>
+  <nav class="nav">
+    <div class="logo">
+        <img src="images/AS logo.png">
+    </div>
+    <ul class="nav-links">
+        <li><a href="#">About</a>
+      </li>
+        <li><a href="#">Work</a>
+      </li>
+        <li><a href="#">Contact</a>
+      </li>
+        <li><a href="#">Resume</a>
+      </li>
+    </ul>
+
+    </div>
+</nav>  
+  <div class="main">
+  <img src="images/Anna's Profile .png">   <h1> I'm Anna Sybingco</h1>
+    <p>I’m a UX/ UI Designer. Passionate about <b>human centered design</b>, I want to create a world that’s accessible for all.  I love the mix of functionality and aesthetics and dedicate my time to learning something new each day.  </p>
+  <div class="button">LEARN MORE</div>
+  </div>
+<h2 class=.myWork>My Work</h2>
+  <div class="gallery">
+    <a target="_blank" href="Oui_Chef_logo.png">
+      <img src="images/Oui Chef logo.png" width="600" height="400">
+      </a>
+      <div class="gallery">
+      <a target="_blank" href="=CRA_logo.png">
+        <img src ="images/CRA logo.png" width="600" height="400">
+      </a>
+  </div>
+  <div class="gallery">
+    <a target="_blank" href="=CNIB_logo.png">
+      <img src ="images/CNIB logo.png" width="600" height="400">
+    </a>
+    <div class="button">SEE MORE</div>
+  </div>
+</div>
+</div>
+</body>
+<footer class="footer">
+  <ul class="footer>
+  <li><a href="#">LINKED IN</a></li>
+  <li><a href="#">GITHUB</a>
+  </li>
+  </li>
+</ul>
+  </footer>
+</html>
